@@ -179,3 +179,30 @@ The dashboard provides visibility into:
 ## Purpose
 
 This project was developed as a hands-on cybersecurity and data engineering project to demonstrate skills in security monitoring, risk analysis, database management, API development, and security dashboard development.
+
+## Dashboard Screenshots
+
+### Security Operations Overview
+
+![Security Operations Overview](screenshots/overview.png)
+
+### Security Alerts
+
+![Security Alerts](screenshots/security-alerts.png)
+
+### Incident Review
+
+![Incident Review](screenshots/incident-review.png)
+
+### Incident Management
+
+![Incident Management](screenshots/incident-management.png)
+
+### Vulnerability Management
+
+![Vulnerability Management](screenshots/vulnerability-management.png)
+
+### NIST Cybersecurity Framework
+
+![NIST Cybersecurity Framework](screenshots/nist-cyber.png)
+
